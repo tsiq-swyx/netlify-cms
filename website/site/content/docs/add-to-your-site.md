@@ -263,3 +263,7 @@ If you set your registration preference to "Invite only," you'll need to invite 
 If you left your site registration open, or for return visits after comfirming an email invitation, you can access your site's CMS at `yoursite.com/admin/`.
 
 Happy posting!
+
+## Adding NetlifyCMS to a Gatsby site
+
+If you are using Gatsby, there is more set up to do. You might want to check out `gatsby-plugin-netlify-cms` and the file structure in <https://github.com/AustinGreen/gatsby-starter-netlify-cms> - in particular the `src/cms` folder.
